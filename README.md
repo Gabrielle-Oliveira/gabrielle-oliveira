@@ -1,3 +1,2 @@
 - 👋 Óla  eu sou a  Gabi
 - 👀 Estou Cursando Analise e Desenvolvimento de Sistemas.
-- 🌱 Estou estudando Python e Delphi 7
